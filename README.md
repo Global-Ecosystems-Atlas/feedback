@@ -18,8 +18,8 @@ Before creating a new issue, please check and consider the following:
 ## Status of Issues
 
 Issues will have one of the following statuses:
-* **bug** <Description>
-* **feature request** <Description>
-* **correction required** <Description>
-* **planned feature** <Description>
-* **Not under consideration** <Description> 
+* **bug** - Add Description - 
+* **feature request** - Add Description - 
+* **correction required** - Add Description - 
+* **planned feature** - Add Description - 
+* **Not under consideration** - Add Description - 
