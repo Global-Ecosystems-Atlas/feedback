@@ -18,7 +18,7 @@ Before creating a new issue, please check and consider the following:
 ## Status of Issues
 
 Issues will have one of the following statuses:
-* **bug** - Add Description - 
+* **bug** Have you spotted a bug in our code? Perhaps a function that doesn't work properly. If so, add this label to your issue request!
 * **feature request** - Add Description - 
 * **correction required** - Add Description - 
 * **planned feature** - Add Description - 
