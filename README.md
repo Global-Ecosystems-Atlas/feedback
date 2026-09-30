@@ -21,5 +21,4 @@ Issues need to be assigned one of the following labels:
 * **bug** Have you spotted a bug in our code? Perhaps a function that doesn't work properly. If so, add this label to your issue request!
 * **feature request** - Use this label if you want to suggest improvements or additional functionalities to the web app.
 * **correction required** - Can you see an error in the data that's presented? If so, please use this label so that we can investigate it.
-* **help wanted** - Add Description - NGD: not sure if we need this tracked here?
-* **question** - Add Description - NGD: not sure if we need this tracked here?
+
